@@ -1,0 +1,41 @@
+div {
+
+ background-color: gray;
+ color: red;
+ font-size: xx-large;
+font-weight: 1000px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.shape1 {
+    font: small;
+    background-color:red ;
+}
+
+.shape2 {
+    font: small;
+    background-color: orange ;
+}
+
+.shape3{
+
+
+    background-color:  yellow;
+}
+.shape4{
+
+
+    background-color:  green;
+}
+
+.shape5{
+
+
+    background-color:  blue;
+}
+
+.shape6{
+
+
+    background-color:  purple;
+}
